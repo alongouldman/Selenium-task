@@ -1,10 +1,10 @@
 # Selenium-task
 Claroty's Selenium home assignment
 
-This is a home assignment from claroty (https://www.claroty.com)
+This is a home assignment from claroty (https://www.claroty.com).
+The test are written in POM (Page Object Model), for reasons of maintainability and scale
 
 ### The task:
-
 Write the below tests using Selenium:
 
 1. Go to google.com
@@ -17,6 +17,7 @@ Write the below tests using Selenium:
 ### Requirments
 * python 3
 * python selenium (`pip install selenium`, see here: https://selenium-python.readthedocs.io/)
+* python unittest
 * google chrome
 * google chrome webdriver (get it here: http://chromedriver.chromium.org/downloads. Make sure it's the same version as you own chrome browser's version)
 
